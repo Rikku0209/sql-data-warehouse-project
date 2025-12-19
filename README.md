@@ -18,7 +18,7 @@ Clone the repository: Load the schema and data: Run the scripts in sql/schema.sq
 
 📂 Data Sources The data used in this project consists of sample datasets that simulate a sales database. It includes data about: Customers Products Sales Transactions Time (Date) Dimension These data files are included in the data/ directory and are loaded into the data warehouse using ETL scripts.
 
-👤 Author Ritvik Palli GitHub-https://github.com/Dinnu005 LinkedIn-https://www.linkedin.com/in/ritvik-palli-682b0532a/
+👤 Author Ritvik Palli GitHub-https://github.com/Rikku0209 LinkedIn-https://www.linkedin.com/in/ritvik-palli-682b0532a/
 
 
 💡 Future Work Add more complex analytical queries Integrate BI tools (e.g., Power BI, Tableau) for dashboards Optimize queries and indexing for performance Automate ETL process using stored procedures or scheduled jobs
